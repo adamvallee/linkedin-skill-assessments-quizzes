@@ -169,7 +169,7 @@
 
 - [ ] **Tools > Organize Pages**
 - [ ] **Tools > Accessibility**
-- [ ] **Took > Edit PDF**
+- [x] **Tools > Edit PDF**
 - [ ] **File > Export to > Microsoft Word**
 
 #### Q25. You would like to convert a layered Visio file to PDF. However, that option is not available. How can you control the conversion of Visio layers to layers in the exported PDF?
